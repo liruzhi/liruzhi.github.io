@@ -23,7 +23,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  #github: barryclark/jekyll-now
+  github: liruzhi/liruzhi.github.io
   instagram:
   linkedin:
   pinterest:
